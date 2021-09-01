@@ -1,6 +1,7 @@
+//Function Overloading (achieved at compile time)
 
-
-// fuction overloading
+//It provides multiple definitions of the function by changing signature i.e changing number of parameters, change datatype of parameters, return type doesn’t play anyrole.
+    
 #include <bits/stdc++.h>
 
 using namespace std;
